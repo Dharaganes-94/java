@@ -34,7 +34,7 @@ class Bike
  }
 }
 
-class MethodOverridingEx1 extends Bike
+public class MethodOverridingEx1 extends Bike
 {
  void run()
 	{
